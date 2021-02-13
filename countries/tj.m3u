@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ASIA" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-url="" group-title="Music",Channel V
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CIS" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",Da Vinci
+http://sc.id-tv.kz:80/DaVinci_38_39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CIS" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="TJ" tvg-language="" tvg-logo="http://www.tamby.info/tv-tadjikistana-online/images/tvt.png" tvg-url="" group-title="",Televizioni Tojikiston
+http://185.121.2.6:8081/live/tvt1214/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="TJ" tvg-language="" tvg-logo="https://i.imgur.com/Abg1fct.png" tvg-url="" group-title="",Xuzur TV (720p)
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CIS" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="",Беларусь 24 (720p)
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
